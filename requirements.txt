@@ -1,0 +1,11 @@
+streamlit
+sqlalchemy
+bcrypt
+python-dotenv
+pandas
+google-auth-oauthlib
+google-auth-httplib2
+openpyxl
+reportlab
+google-api-python-client
+plotly
